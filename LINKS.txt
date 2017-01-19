@@ -1,0 +1,10 @@
+DOG: https://i.ytimg.com/vi/opKg3fyqWt4/hqdefault.jpg
+
+CAT: http://writm.com/wp-content/uploads/2016/08/Cat-hd-wallpapers.jpg
+
+PENGUIN: https://upload.wikimedia.org/wikipedia/commons/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg
+
+PANDA: https://aos.iacpublishinglabs.com/question/aq/1400px-788px/pandas-live_64dff22c2fe56e9.jpg?domain=cx.aos.ask.com
+
+DOLPHIN: http://www.defenders.org/sites/default/files/styles/large/public/dolphin-kristian-sekulic-isp.jpg
+
